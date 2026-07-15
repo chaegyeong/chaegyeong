@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm ChaeGyeong Lee.
-I'm an undergraduate student in the Software Convergence department at Kyung Hee University. 
+Hello, I'm ChaeGyeong Lee.<br> 
+I'm an undergraduate student in the Software Convergence department at Kyung Hee University. <br> 
 I'm interested in computer vision — I'm still exploring my research direction, but I'm particularly drawn to video anomaly detection and multimodal learning.
