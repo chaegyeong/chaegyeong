@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
 ## Interest
 ![CV](https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square)
 ![AD](https://img.shields.io/badge/Anomaly%20Detection-EA4335?style=flat-square)
@@ -31,7 +37,5 @@ Here are some ideas to get you started:
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ![Snake animation](https://raw.githubusercontent.com/chaegyeong/chaegyeong/output/github-contribution-grid-snake-dark.svg)
