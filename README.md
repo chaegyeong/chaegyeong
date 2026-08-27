@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 ### 🎓 Activities
 **KHUDA** (Data Analysis & AI Society, Kyung Hee University)
-#### Completed 9th Cohort
-#### (ongoing) Education Team Member, 10th Cohort
 
 ## 🏆 Awards
 ![KCC26](https://img.shields.io/badge/KCC%202026-4285F4?style=flat-square)
