@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## Interest
 ![CV](https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square)
-![AD](https://img.shields.io/badge/Anomaly%20Detection-EA4335?style=flat-square)
-![RL](https://img.shields.io/badge/Reinforcement%20Learning-34A853?style=flat-square)
+![3DAD](https://img.shields.io/badge/3DAnomaly%20Detection-EA4335?style=flat-square)
+![AD](https://img.shields.io/badge/Autonomous%20Driving-34A853?style=flat-square)
 ![Multimodal](https://img.shields.io/badge/Multimodal%20Learning-FBBC05?style=flat-square)
 
 ## Education 
